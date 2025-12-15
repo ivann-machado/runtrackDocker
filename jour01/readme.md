@@ -1,36 +1,36 @@
 ● Vérifier la version d'installation de docker avec la commande
 ○ docker --version
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/1.png?raw=true)
+![alt text](/image/1.png?raw=true)
 ● Tester les commandes de base dans le terminal :
 ○ docker info
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/2.png?raw=true)
+![alt text](/image/2.png?raw=true)
 ○ docker ps
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/3.png?raw=true)
+![alt text](/image/3.png?raw=true)
 ○ docker images
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/4.png?raw=true)
+![alt text](/image/4.png?raw=true)
 ○ docker run
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/5.png?raw=true)
+![alt text](/image/5.png?raw=true)
 ○ docker stop
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/6.png?raw=true)
+![alt text](/image/6.png?raw=true)
 ● Récupérer l’image Docker
 ○ docker pull
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/7.png?raw=true)
+![alt text](/image/7.png?raw=true)
 ○ docker images
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/8.png?raw=true)
+![alt text](/image/8.png?raw=true)
 ● Construisez le container Docker
 Remplacer xxxx par un port valide
 ○ docker run -it --rm -p xxxx:80 “nom de l’image”
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/9.png?raw=true)
+![alt text](/image/9.png?raw=true)
 ○ Dans l’explorateur internet trouver le moyen d’accéder au
 container
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/10.png?raw=true)
+![alt text](/image/10.png?raw=true)
 ○ Relancer toutes les commandes de base ci-dessus dans le
 terminal de votre choix
 ● Arrêter votre container
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/11.png?raw=true)
+![alt text](/image/11.png?raw=true)
 ○ docker stop container_id
 ● Supprimer votre container
-![alt text](https://github.com/ivann-machado/runtrackDocker/jour01/image/blob/main/12.png?raw=true)
+![alt text](/image/12.png?raw=true)
 ○ docker rm container_id
 
 _4
