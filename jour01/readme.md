@@ -56,3 +56,9 @@ docker prune\
 docker rmi -f image_id\
 ○ Quel erreur est présente dans les commandes données\
 ci-dessus, donner la correction\
+\
+job02
+\
+● Créer l’image docker à partir de ce projet de sorte que le
+fichier dockerfile soit pris en compte\
+![alt text](/jour01/image/13.png?raw=true)\
