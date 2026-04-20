@@ -62,3 +62,6 @@ job02
 ● Créer l’image docker à partir de ce projet de sorte que le
 fichier dockerfile soit pris en compte\
 ![alt text](/jour01/image/13.png?raw=true)\
+● Lancer l’image docker que vous venez de créer et lancer un
+container avec\
+![alt text](/jour01/image/14.png?raw=true)\
